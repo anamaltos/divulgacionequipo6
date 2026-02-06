@@ -10,7 +10,7 @@ import sitemap from 'vite-plugin-sitemap';
  */
 
 // ⭐ URL DEL SITIO - CAMBIAR AQUÍ
-const urlSitio = 'https://anamaltos.github.io/divulgacionequipo6';
+const urlSitio = 'https://anamaltos.github.io/divulgacionequipo6/';
 
 export default defineConfig({
   // IMPORTANTE: Descomenta y ajusta según donde publiques en GitHub Pages
