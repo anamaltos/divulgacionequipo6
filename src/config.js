@@ -168,3 +168,4 @@ export const AVANZADO = {
   // Ruta del archivo JSON (dentro de /estaticos)
   rutaEstatico: '/estaticos/datos.json',
 };
+
