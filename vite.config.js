@@ -14,7 +14,7 @@ const urlSitio = 'https://anamaltos.github.io/divulgacionequipo6/';
 
 export default defineConfig({
   // IMPORTANTE: Descomenta y ajusta según donde publiques en GitHub Pages
-  base: '/enflujo-documento-al-dato/', // Para proyecto en repositorio
+  base: '/divulgacionequipo6/', // Para proyecto en repositorio
 
   define: {
     __URL_SITIO__: JSON.stringify(urlSitio),
